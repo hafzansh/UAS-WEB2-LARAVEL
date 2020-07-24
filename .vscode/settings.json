@@ -1,0 +1,7 @@
+{
+    "editor.renderLineHighlight": "none",
+    "editor.fontFamily": "Menlo, 'DejaVu Sans Mono', Consolas, 'Lucida Console', monospace",
+    "files.associations": {
+        ".blade.php": "html", ".tpl": "html" 
+    }
+}
